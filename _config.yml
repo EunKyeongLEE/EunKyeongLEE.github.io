@@ -17,7 +17,7 @@ theme: jekyll-theme-cayman
 # remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "My Awesome Site"
-description: "It really is the best."
+description: "R is well"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
@@ -86,10 +86,10 @@ defaults:
       share: true
 
 # Site Author
-author:
-  name:
+author: ek
+  name: stat-ek
   picture:
-  email:
+  email:stateklee@gmail.com
   twitter:
   links:
     - title:
